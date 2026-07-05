@@ -134,7 +134,7 @@ This dashboard helps business stakeholders:
 
 # 👨‍💻 Author
 
-**Lingesh S**
+Lingesh S
 
 MBA (Finance & Business Analytics)
 
