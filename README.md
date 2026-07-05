@@ -4,8 +4,6 @@
 
 This project analyzes customer churn data from a telecom company using Microsoft Excel. The objective is to identify the key factors contributing to customer churn, analyze customer behavior, classify customers based on churn risk, and provide actionable business recommendations through an interactive dashboard.
 
----
-
 ## 🎯 Problem Statement
 
 Customer churn is one of the biggest challenges faced by telecom companies. Losing existing customers leads to decreased revenue and increased customer acquisition costs.
@@ -16,8 +14,6 @@ The objective of this project is to answer the following business questions:
 - Which customer segments are at the highest risk of churning?
 - Which factors contribute most to customer churn?
 - What strategies can improve customer retention?
-
----
 
 # 🛠 Tools & Features Used
 
@@ -41,8 +37,6 @@ The objective of this project is to answer the following business questions:
 - Business Insights
 - Customer Risk Analyzer
 
----
-
 # 📂 Workbook Structure
 
 | Worksheet | Description |
@@ -54,8 +48,6 @@ The objective of this project is to answer the following business questions:
 | **Risk_Analyzer** | Customer Risk Scoring Model (Low, Medium & High Risk) |
 | **Business_Insights** | Key findings, recommendations, and business insights |
 | **Dashboard** | Interactive executive dashboard with KPI cards, charts, and slicers |
-
----
 
 # 📈 Dashboard Features
 
@@ -75,8 +67,6 @@ The objective of this project is to answer the following business questions:
 
 ✔ Interactive Slicers
 
----
-
 # 📊 Key Performance Indicators (KPIs)
 
 - Total Customers
@@ -88,8 +78,6 @@ The objective of this project is to answer the following business questions:
 - High Risk Customers
 - Low Risk Customers
 
----
-
 # 💡 Key Business Insights
 
 - Approximately **26.54%** of customers have churned.
@@ -100,8 +88,6 @@ The objective of this project is to answer the following business questions:
 - Customers without **Tech Support** and **Online Security** are more likely to leave.
 - The Customer Risk Analyzer helps identify customers who require immediate retention efforts.
 
----
-
 # 🚀 Business Recommendations
 
 - Encourage customers to switch from Month-to-Month to long-term contracts.
@@ -111,14 +97,9 @@ The objective of this project is to answer the following business questions:
 - Offer Tech Support and Online Security bundles to improve customer satisfaction.
 - Prioritize High Risk customers with personalized retention offers.
 
----
-
 # 📷 Dashboard Preview
 
 <img width="605" height="671" alt="Dashboard-Excel" src="https://github.com/user-attachments/assets/a73546e6-ccff-44ba-a6be-763436e55c00" />
-
-
----
 
 # 📈 Business Impact
 
@@ -130,8 +111,6 @@ This dashboard helps business stakeholders:
 - Support data-driven decision-making.
 - Improve customer retention strategies.
 - Reduce potential revenue loss.
-
----
 
 # 🎯 Skills Demonstrated
 
@@ -146,16 +125,12 @@ This dashboard helps business stakeholders:
 - Customer Risk Analysis
 - Executive Reporting
 
----
-
 # 📂 Dataset Information
 
 - **Dataset:** IBM Telco Customer Churn Dataset
 - **Total Records:** 7,043
 - **Total Features:** 21
 - **Domain:** Telecommunications
-
----
 
 # 👨‍💻 Author
 
@@ -164,9 +139,5 @@ This dashboard helps business stakeholders:
 MBA (Finance & Business Analytics)
 
 Aspiring Data Analyst
-
-GitHub: https://github.com/Lingesh2602
-
----
 
 ## ⭐ If you found this project helpful, feel free to star this repository!
