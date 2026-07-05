@@ -115,7 +115,8 @@ The objective of this project is to answer the following business questions:
 
 # 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+<img width="605" height="671" alt="Dashboard-Excel" src="https://github.com/user-attachments/assets/a73546e6-ccff-44ba-a6be-763436e55c00" />
+
 
 ---
 
